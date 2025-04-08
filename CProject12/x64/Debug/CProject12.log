@@ -1,0 +1,3 @@
+﻿  ex12.c
+C:\CWorkspace-20241104\Project1\CProject12\ex12.c(5,6): warning C4101: 'col_order' :참조되지 않은 지역 변수입니다.
+  CProject12.vcxproj -> C:\CWorkspace-20241104\Project1\x64\Debug\CProject12.exe

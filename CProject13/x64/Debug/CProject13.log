@@ -1,0 +1,4 @@
+﻿  ex13_12.c
+C:\CWorkspace-20241104\Project1\CProject13\ex13_12.c(26,3): warning C4098: 'exchange': 'void' 함수에서 값을 반환하고 있습니다.
+C:\CWorkspace-20241104\Project1\CProject13\ex13_12.c(34,3): warning C4098: 'exchange': 'void' 함수에서 값을 반환하고 있습니다.
+  CProject13.vcxproj -> C:\CWorkspace-20241104\Project1\x64\Debug\CProject13.exe
